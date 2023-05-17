@@ -5,8 +5,8 @@
 - 🤔 I’m currently looking for internships </br>
 - 📫 How to reach me: https://t.me/Trapsoul_m || asfawdaniel779@gmail.com </br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=naolbm&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naolbm&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=naol_bm&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naol_bm&layout=compact">
 
 <!-- <img style="width:100%; height:13px; outline:none; clear=both;border:none"> -->
 <!-- </div> -->
